@@ -89,7 +89,7 @@
   	srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=devarshi0-1&show_icons=true&locale=en&layout=compact"
   	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	/>
-	<p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=devarshi0-1&theme=dark&show_icons=true&locale=en&layout=compact" /></p>
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devarshi0-1&theme=dark&show_icons=true&locale=en&layout=compact" /></p>
 </picture>
 
 <picture>
@@ -101,7 +101,7 @@
   	srcset="https://github-readme-stats-ruby-one.vercel.app/api?username=devarshi0-1&show_icons=true"
   	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	/>
-	<p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=devarshi0-1&theme=dark&show_icons=true" /></p>
+	<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshi0-1&theme=dark&show_icons=true" /></p>
 </picture>
 
 <p>
