@@ -16,7 +16,7 @@
 - 📫 How to reach me **devarshidwi@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and a nerd**
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=devarshi0-1&label=Profile%20views&color=0e75b6&style=flat" alt="devarshi0-1" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=devarshi0-1&label=Profile%20views&color=green&style=flat" alt="devarshi0-1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
