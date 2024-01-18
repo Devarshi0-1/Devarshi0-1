@@ -86,30 +86,3 @@
 	</a>
 <p>
 
-<picture>
-	<source
-		srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=devarshi0-1&show_icons=true&theme=dark&locale=en&layout=compact"
-		media="(prefers-color-scheme: dark)"
-		/>
-	<source
-  	srcset="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=devarshi0-1&show_icons=true&locale=en&layout=compact"
-  	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devarshi0-1&theme=dark&show_icons=true&locale=en&layout=compact" /></p>
-</picture>
-
-<picture>
-	<source 
-   	srcset="https://github-readme-stats-ruby-one.vercel.app/api?username=devarshi0-1&show_icons=true&theme=dark"
-  	media="(prefers-color-scheme: dark)"
-	/>
-	<source
-  	srcset="https://github-readme-stats-ruby-one.vercel.app/api?username=devarshi0-1&show_icons=true"
-  	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshi0-1&theme=dark&show_icons=true" /></p>
-</picture>
-
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devarshi0-1&theme=dark" alt="devarshi0-1" />
-</p>
